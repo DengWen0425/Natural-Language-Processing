@@ -2,7 +2,7 @@
   * File "Dic_to_Txt.py" is the code to count unigram and bigram, then save them in the corresponding txt file.
   * File "unigram.txt" and "bigram.txt" are output by 1. and will be used in "program.py".
   * File "eval.py","vocab.txt". "testdata.txt" and "ans.txt" are original files.
-  * File "count_1edit.txt" is downloaded from online. It is used as the 
+  * File "count_1edit.txt" is downloaded from [online](https://norvig.com/ngrams/count_1edit.t). It is used as the 
 confusion matrix to build channel model.
   * File "vocab.txt" is the original vocabulary file. 
   * File "result.txt" is the file that "program.py" output.
