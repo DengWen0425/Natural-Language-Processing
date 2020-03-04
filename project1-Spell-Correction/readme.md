@@ -5,7 +5,7 @@
   * File "count_1edit.txt" is downloaded from online. It is used as the 
 confusion matrix to build channel model.
   * File "vocab.txt" is the original vocabulary file. 
-  * 6. File "result.txt" is the file that "program.py" output.
-  * 7. File "program.py" is the main function of my project.
+  * File "result.txt" is the file that "program.py" output.
+  * File "program.py" is the main function of my project.
   <br>
   Note: due to the Interpolation smoothing method outperforms other three methods, so I comment other three methods' function out.
