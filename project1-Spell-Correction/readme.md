@@ -1,4 +1,4 @@
-##The following is a breif description of all the files:
+## The following is a breif description of all the files:
   * File "Dic_to_Txt.py" is the code to count unigram and bigram, then save them in the corresponding txt file.
   * File "unigram.txt" and "bigram.txt" are output by 1. and will be used in "program.py".
   * File "eval.py","vocab.txt". "testdata.txt" and "ans.txt" are original files.
