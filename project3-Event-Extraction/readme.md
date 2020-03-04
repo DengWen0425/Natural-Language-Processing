@@ -1,6 +1,6 @@
 ## Event Extraction
 This work was done by using two ways.
-* Hidden Markov Model
+* Hidden Markov Model - HMM
   <br>
   This method includes two decoding ways.
   * Greedy decode
@@ -10,4 +10,4 @@ This work was done by using two ways.
   
 * CRF method
 <br>
-  This was done by using CRF tools, Check the report file for detailed information.
+    his was done by using CRF tools, Check the report file for detailed information.
